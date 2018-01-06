@@ -37,10 +37,10 @@ function destructivelyRemoveElementFromEndOfArray(array){
 }
 
 function removeElementFromEndOfArray(array) {
-  const arrLen = array.length;
-  const sliceTo = arrLen - 1;
+  // const arrLen = array.length;
+  // const sliceTo = arrLen - 1;
   
-  return array.slice(0, sliceTo);
+  // return array.slice(0, sliceTo);
 }
 
 
